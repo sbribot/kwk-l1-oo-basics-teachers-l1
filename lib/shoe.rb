@@ -9,5 +9,7 @@ class Shoe
     @brand
   end
   
-  shoe = Shoe.new("Adidas")
+  def color 
+    @color
+  end 
 end 
