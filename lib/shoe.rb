@@ -6,6 +6,8 @@ class Shoe
   end 
   
   def brand
+    @brand
+  end
   
   shoe = Shoe.new("Adidas")
 end 
