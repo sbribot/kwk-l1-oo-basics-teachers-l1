@@ -43,8 +43,6 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-    puts "Your shoe has been repaired!"
   end
 end
 
-shoe = Shoe.new("new")
